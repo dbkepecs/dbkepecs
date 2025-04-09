@@ -8,4 +8,4 @@
     label: Images
     input: assets/img
     output: /assets/img
-    extensions: [ jpg, png, webp ]
+    extensions: [ jpg, png, webp, svg ]
